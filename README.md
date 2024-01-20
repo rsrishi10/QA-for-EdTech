@@ -4,7 +4,7 @@ This is an end to end LLM project based on Google Palm and Langchain. Project is
 
 ## Technology Used
 
-Langchain + Google Palm: LLM based Q&A
-Streamlit: UI
-Huggingface instructor embeddings: Text embeddings
+Langchain + Google Palm: LLM based Q&A <br>
+Streamlit: UI <br>
+Huggingface instructor embeddings: Text embeddings <br>
 FAISS: Vector databse
